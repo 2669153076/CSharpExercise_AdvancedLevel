@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|e:\\program\\c#\\csharp\u8FDB\u9636\u5B9E\u8DF5\\csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson5_\u968F\u673A\u521B\u5EFA\u7816\u5757\\blockworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|solutionrelative:csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson5_\u968F\u673A\u521B\u5EFA\u7816\u5757\\blockworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson4_\u65B9\u5757\u4FE1\u606F\u7C7B\\blockinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|solutionrelative:csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson4_\u65B9\u5757\u4FE1\u606F\u7C7B\\blockinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson1_\u573A\u666F\u5207\u6362\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|solutionrelative:csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson1_\u573A\u666F\u5207\u6362\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\drawobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|solutionrelative:csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\drawobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson1_\u573A\u666F\u5207\u6362\\beginorendbasescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|solutionrelative:csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson1_\u573A\u666F\u5207\u6362\\beginorendbasescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson1_\u573A\u666F\u5207\u6362\\isceneupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|solutionrelative:csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson1_\u573A\u666F\u5207\u6362\\isceneupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson3_\u56FA\u6001\u5899\u58C1\u548C\u52A8\u6001\u5899\u58C1\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|solutionrelative:csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson3_\u56FA\u6001\u5899\u58C1\u548C\u52A8\u6001\u5899\u58C1\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson1_\u573A\u666F\u5207\u6362\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|solutionrelative:csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson1_\u573A\u666F\u5207\u6362\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson1_\u573A\u666F\u5207\u6362\\beginscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|solutionrelative:csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson1_\u573A\u666F\u5207\u6362\\beginscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|e:\\program\\c#\\csharp\u8FDB\u9636\u5B9E\u8DF5\\csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson6_\u8F93\u5165\u7EBF\u7A0B\u4F18\u5316\\inputthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|solutionrelative:csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson6_\u8F93\u5165\u7EBF\u7A0B\u4F18\u5316\\inputthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|solutionrelative:csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\csharp\u8FDB\u9636\u5B9E\u8DF5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|solutionrelative:csharp\u8FDB\u9636\u5B9E\u8DF5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\idraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|solutionrelative:csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\idraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson1_\u573A\u666F\u5207\u6362\\endscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F16366-C318-4C67-948E-6D743A4D6B4C}|CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5.csproj|solutionrelative:csharp\u8FDB\u9636\u5B9E\u8DF5\\lesson1_\u573A\u666F\u5207\u6362\\endscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameScene.cs",
+              "DocumentMoniker": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\GameScene.cs",
+              "RelativeDocumentMoniker": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\GameScene.cs",
+              "ToolTip": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\GameScene.cs",
+              "RelativeToolTip": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\GameScene.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:51:51.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrawObject.cs",
+              "DocumentMoniker": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\DrawObject.cs",
+              "RelativeDocumentMoniker": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\DrawObject.cs",
+              "ToolTip": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\DrawObject.cs",
+              "RelativeToolTip": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\DrawObject.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAGAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:30:28.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlockInfo.cs",
+              "DocumentMoniker": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson4_\u65B9\u5757\u4FE1\u606F\u7C7B\\BlockInfo.cs",
+              "RelativeDocumentMoniker": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson4_\u65B9\u5757\u4FE1\u606F\u7C7B\\BlockInfo.cs",
+              "ToolTip": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson4_\u65B9\u5757\u4FE1\u606F\u7C7B\\BlockInfo.cs",
+              "RelativeToolTip": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson4_\u65B9\u5757\u4FE1\u606F\u7C7B\\BlockInfo.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswIwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:30:35.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlockWorker.cs",
+              "DocumentMoniker": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson5_\u968F\u673A\u521B\u5EFA\u7816\u5757\\BlockWorker.cs",
+              "RelativeDocumentMoniker": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson5_\u968F\u673A\u521B\u5EFA\u7816\u5757\\BlockWorker.cs",
+              "ToolTip": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson5_\u968F\u673A\u521B\u5EFA\u7816\u5757\\BlockWorker.cs",
+              "RelativeToolTip": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson5_\u968F\u673A\u521B\u5EFA\u7816\u5757\\BlockWorker.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAIAywDcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:56:14.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BeginOrEndBaseScene.cs",
+              "DocumentMoniker": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\BeginOrEndBaseScene.cs",
+              "RelativeDocumentMoniker": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\BeginOrEndBaseScene.cs",
+              "ToolTip": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\BeginOrEndBaseScene.cs",
+              "RelativeToolTip": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\BeginOrEndBaseScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:52:46.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISceneUpdate.cs",
+              "DocumentMoniker": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\ISceneUpdate.cs",
+              "RelativeDocumentMoniker": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\ISceneUpdate.cs",
+              "ToolTip": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\ISceneUpdate.cs",
+              "RelativeToolTip": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\ISceneUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:49:43.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Map.cs",
+              "DocumentMoniker": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson3_\u56FA\u6001\u5899\u58C1\u548C\u52A8\u6001\u5899\u58C1\\Map.cs",
+              "RelativeDocumentMoniker": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson3_\u56FA\u6001\u5899\u58C1\u548C\u52A8\u6001\u5899\u58C1\\Map.cs",
+              "ToolTip": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson3_\u56FA\u6001\u5899\u58C1\u548C\u52A8\u6001\u5899\u58C1\\Map.cs",
+              "RelativeToolTip": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson3_\u56FA\u6001\u5899\u58C1\u548C\u52A8\u6001\u5899\u58C1\\Map.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:01:36.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cs",
+              "DocumentMoniker": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\Game.cs",
+              "RelativeDocumentMoniker": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\Game.cs",
+              "ToolTip": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\Game.cs",
+              "RelativeToolTip": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\Game.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:45:55.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BeginScene.cs",
+              "DocumentMoniker": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\BeginScene.cs",
+              "RelativeDocumentMoniker": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\BeginScene.cs",
+              "ToolTip": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\BeginScene.cs",
+              "RelativeToolTip": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\BeginScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:51:30.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Position.cs",
+              "DocumentMoniker": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\Position.cs",
+              "RelativeDocumentMoniker": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\Position.cs",
+              "ToolTip": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\Position.cs",
+              "RelativeToolTip": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:26:37.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InputThread.cs",
+              "DocumentMoniker": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson6_\u8F93\u5165\u7EBF\u7A0B\u4F18\u5316\\InputThread.cs",
+              "RelativeDocumentMoniker": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson6_\u8F93\u5165\u7EBF\u7A0B\u4F18\u5316\\InputThread.cs",
+              "ToolTip": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson6_\u8F93\u5165\u7EBF\u7A0B\u4F18\u5316\\InputThread.cs",
+              "RelativeToolTip": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson6_\u8F93\u5165\u7EBF\u7A0B\u4F18\u5316\\InputThread.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:06:20.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Program.cs",
+              "ToolTip": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Program.cs",
+              "RelativeToolTip": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:31:52.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EndScene.cs",
+              "DocumentMoniker": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\EndScene.cs",
+              "RelativeDocumentMoniker": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\EndScene.cs",
+              "ToolTip": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\EndScene.cs",
+              "RelativeToolTip": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson1_\u573A\u666F\u5207\u6362\\EndScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:52:00.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDraw.cs",
+              "DocumentMoniker": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\IDraw.cs",
+              "RelativeDocumentMoniker": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\IDraw.cs",
+              "ToolTip": "E:\\Program\\C#\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\IDraw.cs",
+              "RelativeToolTip": "CSharp\u8FDB\u9636\u5B9E\u8DF5\\Lesson2_\u7ED8\u5236\u5BF9\u8C61\u57FA\u7C7B\u548C\u679A\u4E3E\\IDraw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:25:16.189Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

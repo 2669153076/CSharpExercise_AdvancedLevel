@@ -1,0 +1,7 @@
+E:\Program\C#\CSharp进阶实践\CSharp进阶实践\bin\Debug\CSharp进阶实践.exe.config
+E:\Program\C#\CSharp进阶实践\CSharp进阶实践\bin\Debug\CSharp进阶实践.exe
+E:\Program\C#\CSharp进阶实践\CSharp进阶实践\bin\Debug\CSharp进阶实践.pdb
+E:\Program\C#\CSharp进阶实践\CSharp进阶实践\obj\Debug\CSharp进阶实践.csproj.AssemblyReference.cache
+E:\Program\C#\CSharp进阶实践\CSharp进阶实践\obj\Debug\CSharp进阶实践.csproj.CoreCompileInputs.cache
+E:\Program\C#\CSharp进阶实践\CSharp进阶实践\obj\Debug\CSharp进阶实践.exe
+E:\Program\C#\CSharp进阶实践\CSharp进阶实践\obj\Debug\CSharp进阶实践.pdb
